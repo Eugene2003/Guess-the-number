@@ -1,0 +1,9 @@
+﻿[Button2]
+Coordinates=79,10,60,69
+Visible=True
+ExplicitSubNodes=Brush.Color
+
+[]
+Coordinates=10,10,53,51
+Visible=True
+
